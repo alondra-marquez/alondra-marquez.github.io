@@ -9,7 +9,7 @@ comments: false
 ::: {.home-left}
 ![](images/IMG_3726.JPG){.profile-img}
 
-<div class="card-name">Alondra Márquez</div>
+<div class="card-name">Alondra Yolotzin Marquez Mendoza</div>
 <div class="card-subtitle">Undergraduate · Genomic Sciences (UNAM)</div>
 
 <div class="card-links">
@@ -28,7 +28,7 @@ comments: false
 
 <p>I’m an undergraduate student in the Genomic Sciences program at UNAM, currently in my fourth semester. My academic training combines molecular biology with computational approaches to better understand complex biological systems.</p>
 
-<p>My primary research interests center on plant–microbe interactions and their implications for food security in the context of climate change. I am particularly interested in understanding the molecular mechanisms that regulate host–pathogen and host–symbiont relationships, integrating perspectives from evolutionary genomics, transcriptional regulation, and functional molecular biology.</p>
+<p>My primary research interests center on plant–microbe interactions and their implications for food security in the context of climate change. I am particularly interested in understanding the molecular mechanisms that regulate host–pathogen and host–symbiont relationships, integrating perspectives from evolutionary genomics, transcriptional regulation, and functional molecular biology. I am motivated by the challenge of contributing to strategies that strengthen crop resilience under changing environmental conditions.</p>
 
 <p>I am currently part of a research group at the Institute of Biotechnology (UNAM), where I am gaining experience in the study of oxygen perception, hypoxia signaling, and reactive oxygen species (ROS) dynamics during plant–microbe interactions. Through this work, I am developing both experimental and computational skills while contributing to ongoing projects.</p>
 
@@ -57,9 +57,11 @@ Supervisor: Dr. Luis Cárdenas Torres</p>
 
 <h2>Beyond the Lab</h2>
 
-<p>Outside of research and university, I really enjoy reading. I’m especially drawn to science fiction and books that question society, power, and the problems we face as a world.</p>
+<p>Outside of research and university, I really enjoy reading. I’m especially drawn to science fiction and books that question society, power, and the problems we face as a world. I like stories that explore moral conflict, historical memory, and current global struggles because they help me see things from different perspectives and better understand how complex the world we live in really is.</p>
 
-<p>I also love running, especially long distances. For me, there is something meaningful about sustained effort and pushing through when it gets difficult, realizing that you are still capable of going further. One of my goals is to run a marathon, and in the future my mom and I hope to complete a 100 km ultramarathon together.</p>
+<p>I also love running, especially long distances. For me, there is something meaningful about sustained effort, pushing through when it gets difficult and realizing that you are still capable of going further. One of my current goals is to run a marathon, and in the future, my mom and I hope to complete a 100 km ultramarathon together.</p>
+
+<p> Moreover, music is another space where I like to explore; iIenjoy listening to different genres because I believe it opens your panorama. Discovering new music feels exciting, like finding something you didn’t even know existed and letting it change the way you experience your world. </p>
 
 --- 
 

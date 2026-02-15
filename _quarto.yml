@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Alondra Marquez"
+  title: "Alondra Marquez-Mendoza"
   description: "Undergraduate student from the Genomic Sciences program at UNAM"
   site-url: "https://alondra-marquez.github.io"
   navbar:
