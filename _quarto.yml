@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Alondra Marquez"
+  description: "Undergraduate student from the Genomic Sciences program at UNAM"
+  site-url: "https://alondra-marquez.github.io"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: cv.qmd
+        text: CV
+      - href: projects.qmd
+        text: Projects  
+      - href: writing.qmd
+        text: Writing
+      - href: publications.qmd
+        text: Publications
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+
+editor: visual
+
+
+
