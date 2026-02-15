@@ -19,7 +19,7 @@
   padding: 0.5rem 0;
   display: flex;
   flex-direction: column;
-  align-items: center; /* cambia a center si la quieres centrada */
+  align-items: center; 
 }
 
 
@@ -33,7 +33,7 @@
 }
 
 
-/* Name + subtitle like the example */
+/* Name + subtitle */
 .card-name {
   font-size: 2rem;
   font-weight: 800;
