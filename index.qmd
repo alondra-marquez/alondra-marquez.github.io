@@ -1,0 +1,67 @@
+---
+title: ""
+toc: false
+page-layout: full
+comments: false
+---
+::: {.home-wrap}
+
+::: {.home-left}
+![](images/IMG_3726.JPG){.profile-img}
+
+<div class="card-name">Alondra Márquez</div>
+<div class="card-subtitle">Undergraduate · Genomic Sciences (UNAM)</div>
+
+<div class="card-links">
+[GitHub](https://github.com/alondra-marquez){.btn .btn-outline-dark .btn-sm}
+[Twitter/X](https://x.com/alondra_mrqz){.btn .btn-outline-dark .btn-sm}
+[Bluesky](https://bsky.app/profile/alondramm.bsky.social){.btn .btn-outline-dark .btn-sm}
+[ORCID](https://orcid.org/0009-0003-2690-0162){.btn .btn-outline-dark .btn-sm}
+[Email](mailto:alondram@lcg.unam.mx){.btn .btn-outline-dark .btn-sm}
+</div>
+:::
+
+::: {.home-right}
+<div class="hero-kicker">Welcome to my personal website! </div>
+
+<h2 class="section-title">About Me</h2>
+
+<p>I’m an undergraduate student in the Genomic Sciences program at UNAM, currently in my fourth semester. My academic training combines molecular biology with computational approaches to better understand complex biological systems.</p>
+
+<p>My primary research interests center on plant–microbe interactions and their implications for food security in the context of climate change. I am particularly interested in understanding the molecular mechanisms that regulate host–pathogen and host–symbiont relationships, integrating perspectives from evolutionary genomics, transcriptional regulation, and functional molecular biology.</p>
+
+<p>I am currently part of a research group at the Institute of Biotechnology (UNAM), where I am gaining experience in the study of oxygen perception, hypoxia signaling, and reactive oxygen species (ROS) dynamics during plant–microbe interactions. Through this work, I am developing both experimental and computational skills while contributing to ongoing projects.</p>
+
+
+<h2>Academic Background</h2>
+
+<p><strong>Universidad Nacional Autónoma de México (UNAM)</strong><br>
+Bachelor of Science in Genomic Sciences<br>
+2024–Present</p>
+
+<p><strong>Escuela Nacional Preparatoria Plantel 6 “Antonio Caso” (UNAM)</strong><br>
+High School Diploma<br>
+2020–2023</p>
+
+
+
+<h2>Research Experience</h2>
+
+<p><strong>Institute of Biotechnology (IBt), UNAM</strong> · Morelos, Mexico<br>
+Department of Plant Molecular Biology<br>
+Undergraduate Research Assistant<br>
+March 2024 – Present<br>
+Supervisor: Dr. Luis Cárdenas Torres</p>
+
+
+
+<h2>Beyond the Lab</h2>
+
+<p>Outside of research and university, I really enjoy reading. I’m especially drawn to science fiction and books that question society, power, and the problems we face as a world.</p>
+
+<p>I also love running, especially long distances. For me, there is something meaningful about sustained effort and pushing through when it gets difficult, realizing that you are still capable of going further. One of my goals is to run a marathon, and in the future my mom and I hope to complete a 100 km ultramarathon together.</p>
+
+--- 
+
+<p>This website was created using <a href="https://quarto.org/">Quarto</a>.</p>
+:::

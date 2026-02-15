@@ -1,0 +1,36 @@
+
+---
+title: "Current Projects"
+---
+
+1. The Response to Hypoxic Conditions in Plants: From an Evolutionary Approach to New Strategies in Single Cells that Define the Global Response Mechanism During Biotic, Abiotic, and Symbiotic Stress in Plants.
+
+status: 2024-present
+
+This project investigates how plants sense and respond to low oxygen (hypoxic) conditions during development and stress. Although hypoxia is often associated with flooding, plants naturally generate low-oxygen niches in tissues such as root meristems and symbiotic nodules. The research explores how oxygen perception—primarily through ERF-VII transcription factors and Plant Cysteine Oxidases (PCOs)—regulates developmental programs, stress responses, and plant–microbe interactions.
+
+2. ERF-VII / PCO Coevolution Across the Plant Kingdom
+
+status: 2025-present
+
+This project aims to investigate the evolutionary relationship between ERF-VII transcription factors and Plant Cysteine Oxidases (PCOs), two key components of the plant oxygen-sensing pathway. The goal is to evaluate how these protein families have diversified and potentially coevolved across a broad range of photosynthetic organisms, from algae to flowering plants.
+
+3. Phaseolus vulgaris Transcriptomic Database
+
+status: 2025-present
+
+Development of a web-based database integrating publicly available RNA-seq dataset from Phaseolus vulgaris under multiple experimental conditions. The platform aims to enable cross-study comparisons, differential expression exploration, and improved accessibility to transcriptomic data for functional genomics research.
+
+4. TET8 and Extracellular Vesicle-Mediated Plant Immunity
+
+status: 2026-present
+
+Exploring the molecular role of TET8-associated extracellular vesicles in plant defense signaling and intercellular communication.
+
+5. Fungal Adaptation: Stress Responses, Spore Survival, and Polar Growth Dynamics
+
+status: 2026-present
+
+This project aims to investigate how filamentous fungi sense and respond to environmental stress through MAPK and SrrA regulatory pathways. By comparing the model fungus Aspergillus nidulans with the halophilic species Aspergillus sydowii, the research explores how stress signaling networks regulate spore viability, oxidative and osmotic stress responses, and the establishment of polarized growth.
+
+
