@@ -1,0 +1,86 @@
+/* Make content width feel like the example */
+.page-columns .content {
+  max-width: 1100px;
+}
+
+/* Two-column layout */
+.home-wrap {
+  display: grid;
+  grid-template-columns: 360px 1fr;
+  gap: 3rem;
+  align-items: start;
+  margin-top: 1.5rem;
+}
+
+/* Left card look */
+.home-left {
+  position: sticky;
+  top: 90px;
+  padding: 0.5rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* cambia a center si la quieres centrada */
+}
+
+
+.profile-img {
+  width: 280px;
+  height: 280px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin: 0 0 1rem 0;
+}
+
+
+/* Name + subtitle like the example */
+.card-name {
+  font-size: 2rem;
+  font-weight: 800;
+  margin-top: 0.25rem;
+}
+
+.card-subtitle {
+  font-size: 1rem;
+  opacity: 0.75;
+  margin-bottom: 0.9rem;
+}
+
+/* Buttons group */
+.card-links .btn {
+  margin: 0.25rem 0.35rem 0 0;
+  font-size: 0.75rem;
+  padding: 0.4rem 0.65rem;
+}
+
+/* Right side typography */
+.right-title {
+  font-size: 2.3rem;
+  font-weight: 800;
+  margin: 0.25rem 0 1rem 0;
+}
+
+.section-divider {
+  margin: 2rem 0;
+  opacity: 0.18;
+}
+
+/* Prevent horizontal scroll in case of code/pre blocks */
+pre, code {
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+/* Mobile */
+@media (max-width: 900px) {
+  .home-wrap {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  .home-left {
+    position: static;
+  }
+  .profile-img {
+    max-width: 100%;
+  }
+}
